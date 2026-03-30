@@ -38,4 +38,4 @@ The system is linearized and represented in state-space form. Since not all stat
 
 ## Notes
 - Initial instability due to observer startup conditions  
-- System requires proper initialization for best performance  ctually look at first)
+- System requires proper initialization for best performance
